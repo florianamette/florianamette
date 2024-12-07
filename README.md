@@ -1,10 +1,10 @@
 ## Hey there! 👋
 
-I'm a **Cybersecurity Consultant** passionate about exploring every angle of digital security. At the moment, I’m dedicated to building an expansive, next-generation knowledge repository at [CyberLibrary](https://www.cyberlibrary.fr) — a resource designed as a more holistic, deeply structured alternative to something like HackTricks and all the awesome repositories.
+I'm a **Cybersecurity Consultant** passionate about exploring every angle of digital security. At the moment, I’m dedicated to building an expansive, next-generation knowledge repository at [Cyber Library](https://www.cyberlibrary.fr) — a resource designed as a more holistic, deeply structured alternative to something like HackTricks and all the ```awesome``` repositories.
 
 ### What’s CyberLibrary?
 
-**CyberLibrary** is your comprehensive guide to the entire cybersecurity ecosystem. It goes beyond just offensive or defensive tactics, encompassing every layer and sub-discipline in a cohesive, ever-evolving resource.
+**Cyber Library** is your comprehensive guide to the entire cybersecurity ecosystem. It goes beyond just offensive or defensive tactics, encompassing every layer and sub-discipline in a cohesive, ever-evolving resource.
 
 **Key Themes:**
 
