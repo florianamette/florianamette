@@ -15,4 +15,6 @@ I'm a **Cybersecurity Consultant** passionate about exploring every angle of dig
 - **Career:** Explore roles, career paths, professional development, certifications, and how to grow and succeed in the cybersecurity industry.
 - **Technology:** Unpack the fundamentals of computing, networks, cryptography, data management, and the technical building blocks that power digital infrastructures.
 
+If you find this project useful, consider giving it a **star** ⭐ — it really helps!
+
 Thanks for stopping by 🚀
