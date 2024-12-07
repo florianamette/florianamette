@@ -18,3 +18,12 @@ I'm a **Cybersecurity Consultant** passionate about exploring every angle of dig
 If you find this project useful, consider giving it a **star** ⭐ — it really helps!
 
 Thanks for stopping by 🚀
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/florianamette/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fakgroup.vercel.app/api/top-langs/?username=florianamette&layout=compact" />
+</a>
