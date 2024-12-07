@@ -34,17 +34,3 @@ Thanks for stopping by 🚀
   />
   <img height=200 src="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette&show_icons=true" />
 </picture>
-
-<picture align="center">
-  <source
-    height=200
-    srcset="https://github-readme-stats-fakgroup.vercel.app/api/top-langs?username=florianamette&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=100"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    height=200
-    srcset="https://github-readme-stats-fakgroup.vercel.app/api/top-langs?username=florianamette&show_icons=true&layout=compact&langs_count=8&card_width=100"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 src="https://github-readme-stats-fakgroup.vercel.app/api/top-langs?username=florianamette&show_icons=true&layout=compact&langs_count=8&card_width=100" />
-</picture>
