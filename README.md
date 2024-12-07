@@ -21,9 +21,30 @@ Thanks for stopping by 🚀
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/florianamette/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fakgroup.vercel.app/api/top-langs/?username=florianamette&layout=compact" />
-</a>
+<picture align="center">
+  <source
+    height=200
+    srcset="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    height=200
+    srcset="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 src="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette&show_icons=true" />
+</picture>
+
+<picture align="center">
+  <source
+    height=200
+    srcset="https://github-readme-stats-fakgroup.vercel.app/api/top-langs?username=florianamette&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    height=200
+    srcset="https://github-readme-stats-fakgroup.vercel.app/api/top-langs?username=florianamette&show_icons=true&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 src="https://github-readme-stats-fakgroup.vercel.app/api/top-langs?username=florianamette&show_icons=true&layout=compact&langs_count=8&card_width=320" />
+</picture>
