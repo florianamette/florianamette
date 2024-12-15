@@ -6,6 +6,8 @@ If you find those projects useful, consider giving it a **star** ⭐ — it real
 
 Thanks for stopping by 🚀
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=florianamette&label=Profile%20views&color=0e75b6&style=flat" alt="florianamette" /> </p>
+
 ## &#x1f4c8; GitHub Stats
 
 <picture align="center">
