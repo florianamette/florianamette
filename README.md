@@ -7,19 +7,3 @@ If you find those projects useful, consider giving it a **star** ⭐ — it real
 Thanks for stopping by 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florianamette&label=Profile%20views&color=0e75b6&style=flat" alt="florianamette" /> </p>
-
-## &#x1f4c8; GitHub Stats
-
-<picture align="center">
-  <source
-    height=200
-    srcset="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette&show_icons=true&theme=dark&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    height=200
-    srcset="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette&show_icons=true&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 src="https://github-readme-stats-fakgroup.vercel.app/api?username=florianamette&show_icons=true&rank_icon=github" />
-</picture>
